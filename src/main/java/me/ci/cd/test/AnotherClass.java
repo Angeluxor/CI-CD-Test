@@ -56,6 +56,11 @@ public class AnotherClass {
     public void setMore(String more) {
         this.more = more;
     }
+
+    @Override
+    public String toString() {
+        return "AnotherClass{" + "with=" + with + ", Another=" + Another + ", things=" + things + ", more=" + more + '}';
+    }
     
     
     
