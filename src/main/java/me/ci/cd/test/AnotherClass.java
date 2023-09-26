@@ -24,6 +24,38 @@ public class AnotherClass {
         this.things = things;
         this.more = more;
     }
+
+    public String getWith() {
+        return with;
+    }
+
+    public void setWith(String with) {
+        this.with = with;
+    }
+
+    public int getAnother() {
+        return Another;
+    }
+
+    public void setAnother(int Another) {
+        this.Another = Another;
+    }
+
+    public boolean isThings() {
+        return things;
+    }
+
+    public void setThings(boolean things) {
+        this.things = things;
+    }
+
+    public String getMore() {
+        return more;
+    }
+
+    public void setMore(String more) {
+        this.more = more;
+    }
     
     
     
