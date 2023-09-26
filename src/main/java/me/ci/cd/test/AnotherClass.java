@@ -14,6 +14,11 @@ public class AnotherClass {
     private int Another;
     private boolean things;
     private String more;
+
+    public AnotherClass() {
+    }
+    
+    
     
     
 }
