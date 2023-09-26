@@ -13,6 +13,7 @@ public class AnotherClass {
     private String with;
     private int Another;
     private boolean things;
+    private String more;
     
     
 }
