@@ -17,6 +17,13 @@ public class AnotherClass {
 
     public AnotherClass() {
     }
+
+    public AnotherClass(String with, int Another, boolean things, String more) {
+        this.with = with;
+        this.Another = Another;
+        this.things = things;
+        this.more = more;
+    }
     
     
     
