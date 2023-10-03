@@ -7,6 +7,6 @@ public class CICDTest {
         
         System.out.println(new CICDTest().getClass().getName());
         
-        System.out.println("A commit has been made.");
+       
     }
 }
